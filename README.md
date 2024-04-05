@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
 
 ## Description
-🔍 ecommerce
+🔍 Book Store
 
 ## Table of Contents
 - [Description](#description)
